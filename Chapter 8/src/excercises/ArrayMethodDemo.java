@@ -36,6 +36,7 @@ public class ArrayMethodDemo {
 	System.out.println("Total of : " + c);
 		
 	}
+	
 }
 
 
